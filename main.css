@@ -1,0 +1,17 @@
+* {
+   box-sizing: border-box;
+ }
+ 
+ *,
+ *::before,
+ *::after {
+     box-sizing: border-box;
+ }
+ 
+ html {
+   font-family:'PlayfairDisplay', serif;
+   background-color: #d9d9d9;
+   color: #3a341a;
+   scroll-behavior: smooth;
+   line-height: 1.4;
+ }
