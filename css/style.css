@@ -10,7 +10,7 @@
  
  html {
    font-family:'Playfair+Display', serif;
-   background-color: #d9d9d9;
+   background-color: #fdfcee;
    color: #3a341a;
    scroll-behavior: smooth;
    line-height: 1.4;
@@ -28,4 +28,9 @@
  h2 {
    text-align: center;
    color: #3a341a;
+ }
+
+ p {
+  text-align: center;
+  color: #3a341a;
  }
