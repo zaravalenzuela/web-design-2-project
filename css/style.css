@@ -30,7 +30,9 @@
    color: #3a341a;
  }
 
- p {
+ .painting p {
   text-align: center;
   color: #3a341a;
+  max-width: 70%;
  }
+
