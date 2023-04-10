@@ -9,9 +9,23 @@
  }
  
  html {
-   font-family:'PlayfairDisplay', serif;
+   font-family:'Playfair+Display', serif;
    background-color: #d9d9d9;
    color: #3a341a;
    scroll-behavior: smooth;
    line-height: 1.4;
+ }
+
+ header h1 {
+   font-weight: regular;
+ }
+
+ .painting img {
+   max-width: 100%;
+   margin: auto;
+ }
+
+ h2 {
+   text-align: center;
+   color: #3a341a;
  }
